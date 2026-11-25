@@ -1,0 +1,10 @@
+Write a single one-line joke about office life for a head-to-head comedy contest judged by an AI compere.
+
+The joke must:
+- be one short line, under 200 characters, about office life;
+- be a real joke with a setup and a turn, with the punchline last;
+- turn on something anyone who has worked in an office recognises (the meeting that could have been an email, the reply-all, the printer that jams on deadline day);
+- surprise the reader with a turn they do not see coming, rather than stating a complaint plainly;
+- feel fresh, not like a joke already going round the office.
+
+Write the joke as a program (main.ts) that assembles it from its comic beats, validates it against the 1..200 character gate, and writes it deterministically to /output/entry.txt.
